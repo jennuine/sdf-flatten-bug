@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <model name="test_model">
+      <include>
+        <uri>model://box</uri>
+      </include>
+    </model>
+  </world>
+</sdf>
